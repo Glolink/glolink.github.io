@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Glolink Research Group",
-    "currentPage": "projects.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -77,7 +77,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Glo-link Welcome",
+        "title": "Glo-link @ HRW",
         "meta_descr": "Research group on global-learning, -innovation, and -knowledge management",
         "header_custom": "",
         "footer_custom": "",
@@ -1396,7 +1396,7 @@
     },
     "projects.html": {
       "settings": {
-        "title": "Projects",
+        "title": "Projects @ Glo-link",
         "meta_descr": "research group of global learning innovation and knowledge management",
         "header_custom": "",
         "footer_custom": "",
@@ -2699,7 +2699,7 @@
     },
     "publications.html": {
       "settings": {
-        "title": "Publications",
+        "title": "Publications @ Glo-link",
         "meta_descr": "research group of global learning innovation and knowledge management",
         "header_custom": "",
         "footer_custom": "",
