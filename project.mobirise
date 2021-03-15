@@ -46,7 +46,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": false,
+    "siteUrl": "https://glo-link.de",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
     "noImageResize": "",
@@ -57,10 +57,11 @@
       "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "imageResize": true,
-    "mbrsiteDomain": "jnjiipgnn3",
-    "sitemapSwitcher": false,
+    "mbrsiteDomain": "kai3ohittx",
+    "sitemapSwitcher": true,
     "publishChangesOnly": false,
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "google-analytics": "Glo-link at Hochschule Ruhr West\nresearch group on global-learning, -innovation, and -knowledge management.\nInformation Systems\nOpen Educational Resources"
   },
   "pages": {
     "index.html": {
