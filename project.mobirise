@@ -41,7 +41,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 198,
+    "uniqCompNum": 199,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
@@ -68,7 +68,7 @@
       "settings": {
         "main": true,
         "title": "Glo-link @ HRW",
-        "meta_descr": "Research group on global-learning, -innovation, and -knowledge management",
+        "meta_descr": "Glo-link: Research group on global-learning, -innovation, and -knowledge management @ Hochschule Ruhr West",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1460,11 +1460,11 @@
     "projects.html": {
       "settings": {
         "title": "Projects @ Glo-link",
-        "meta_descr": "research group of global learning innovation and knowledge management",
+        "meta_descr": "Glo-link: Research group on global-learning, -innovation, and -knowledge management @ Hochschule Ruhr West",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1,
+        "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/glo-link-final-2-292x314.png"
       },
       "components": [
@@ -2763,11 +2763,12 @@
     "publications.html": {
       "settings": {
         "title": "Publications @ Glo-link",
-        "meta_descr": "research group of global learning innovation and knowledge management",
+        "meta_descr": "Glo-link: Research group on global-learning, -innovation, and -knowledge management @ Hochschule Ruhr West",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/glo-link-final-292x314.png"
       },
       "components": [
         {
